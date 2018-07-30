@@ -18,6 +18,9 @@ div {
   border-top-color: indigo;
 }
 
+#blue {
+  border-top-color: blue;
+}
 #red {
   border-top-color: #f00
 }
