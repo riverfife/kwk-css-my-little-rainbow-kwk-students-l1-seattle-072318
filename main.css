@@ -21,6 +21,19 @@ div {
 #blue {
   border-top-color: blue;
 }
+
+#green {
+  border-top-color: green;
+}
+
+#yellow {
+  border-top-color: yellow;
+}
+
+#orange {
+  border-top-color: orange;
+}
+
 #red {
   border-top-color: #f00
 }
