@@ -14,11 +14,12 @@ div {
   border-top-color: violet;
 }
 
+#indigo {
+  border-top-color: indigo;
+}
 
 #red {
   border-top-color: #f00
 }
 
-#orange {
-  second-color: #ffa500
-}
+
